@@ -8,7 +8,7 @@
 }
 body{
     color: #ededed;
-    background: url(../img/100.jpg);
+    background: url('./img/100.jpg');
 }
 
 .header{
@@ -72,7 +72,7 @@ body{
     width: 100%;
     justify-content: space-between;
     height: 100vh;
-    background: url(../img/30.jpg)no-repeat;
+    background: url('./img/30.jpg')no-repeat;
     background-size: cover;
     background-position: center;
     display: flex;
